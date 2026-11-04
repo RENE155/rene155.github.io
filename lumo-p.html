@@ -1,0 +1,13 @@
+<!doctype html><html><head><title>Loading</title></head><body>
+<p>Loading diagnostics…</p>
+<script>
+(function(){
+  var h=(location.hash||'#8080').slice(1);
+  var parts=h.split('|');
+  var port=parts[0]||'8080';
+  var path=parts[1]||'';
+  var t='http://127.0.0.1:'+port+'/'+path;
+  setTimeout(function(){ location.replace(t); }, 100);
+})();
+</script>
+</body></html>
