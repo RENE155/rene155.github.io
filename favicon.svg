@@ -1,8 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
-  <rect width="64" height="64" fill="#0a0"/>
-  <image href="https://dbljg9i80pk71v2ssingnes7darw7jybr.oast.pro/svg-image-href.png" width="10" height="10"/>
-  <image xlink:href="https://dbljg9i80pk71v2ssingnes7darw7jybr.oast.pro/svg-image-xlink.png" width="10" height="10"/>
-  <use href="https://dbljg9i80pk71v2ssingnes7darw7jybr.oast.pro/svg-use-href.svg#a"/>
-  <use xlink:href="https://dbljg9i80pk71v2ssingnes7darw7jybr.oast.pro/svg-use-xlink.svg#a"/>
-  <feImage href="https://dbljg9i80pk71v2ssingnes7darw7jybr.oast.pro/svg-feimage.png"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64"><rect width="64" height="64" fill="#1240aa"/><circle cx="32" cy="32" r="18" fill="#ffd400"/></svg>
